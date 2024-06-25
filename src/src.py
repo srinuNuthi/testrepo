@@ -5,3 +5,4 @@ this is second commit
 this line is from dev branch
 learnning the cherry-pick concept
 >>>>>> (this commit i am going to pick)
+trying the git pull opton
